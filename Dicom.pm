@@ -19,6 +19,10 @@ the Papyrus format.
 
     $img = rdcm("image.dcm");
 
+=head1 SEE ALSO
+
+L<PDL::IO::Dcm>
+
 =head1 AUTHOR
 
 Copyright (C) Dov Grobgeld <dov@imagic.weizmann.ac.il> 2002.
